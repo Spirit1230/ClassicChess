@@ -12,6 +12,7 @@ P - Pawn :
 - Moves one space directly forward, two if on starting rank
 - Takes one space diagonally
 - Can take via en passant if an opposing pawn moves two spaces from its start rank to next to the taking pawn
+- Promotes to either Queen, Knight, Bishop or Castle upon reaching the final rank
             
 C - Castle :
 - Moves any number of spaces in a straight un-impedded line
